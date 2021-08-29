@@ -1,5 +1,5 @@
 {
-  "name": "whitespace-portal",
+  "name": "reactjs-ecr-image-with-cdk-pipelines",
   "version": "0.1.0",
   "bin": {
     "temp": "bin/temp.js"
